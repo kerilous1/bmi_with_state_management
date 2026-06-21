@@ -7,7 +7,11 @@ ___
 
 > 🔗 **Video Demo**
 >
-> *(Drag and drop your screen recording `video.mp4` here to show the app in action!)*
+> * 
+
+https://github.com/user-attachments/assets/8d51d830-7253-4cab-b815-2534f76c5e57
+
+*
 
 ___
 
